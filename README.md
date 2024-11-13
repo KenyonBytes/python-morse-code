@@ -34,4 +34,4 @@ Kenyon Bradley
 
 ## License
 
-Morse Code Encrypt/Decrypt Command Line is distributed under the MIT license. See [`LICENSE`](LICENSE.md) for more details.
+Morse Code Encrypt/Decrypt Command Line is distributed under the MIT license.
