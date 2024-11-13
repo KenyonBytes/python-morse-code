@@ -14,13 +14,13 @@ A simple command line tool to convert a string of text to morse code and back ag
 On macOS and Linux:
 
 ```sh
-$ python -m pip install <project-name>
+$ python -m pip install python-morse-code
 ```
 
 On Windows:
 
 ```sh
-PS> python -m pip install <project-name>
+PS> python -m pip install python-morse-code
 ```
 
 ## Author
@@ -34,4 +34,4 @@ Kenyon Bradley
 
 ## License
 
-Morse Code Encrypt/Decrypt Command Line is distributed under the MIT license.
+python-morse-code is distributed under the MIT license.
